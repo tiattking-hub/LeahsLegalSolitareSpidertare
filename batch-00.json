@@ -1,0 +1,192 @@
+[
+  {
+    "id": "c056",
+    "title": "Market Stall Mango Theft",
+    "facts": "At a busy Barbadian market, Marcia watched Devon pick several ripe mangoes, put them in his bag, and walk away without paying. The stallholder chased him and called the police; Devon insists he intended to pay later. The vendor presses charges for theft.",
+    "question": "Has Devon committed theft under common law principles?",
+    "options": [
+      "Yes, his appropriation and conduct show dishonest intent",
+      "No, because he planned to pay later",
+      "No, vendor must prove he intended permanent deprivation",
+      "Yes, only if he sold the mangoes afterwards"
+    ],
+    "correctIndex": 0,
+    "explanation": "Theft requires dishonest appropriation with intent to permanently deprive. Taking items and leaving the stall without payment is sufficient to infer dishonest intent, making him guilty unless he can show a lawful excuse. The fact he says he would pay later is weak if his conduct indicates appropriation.",
+    "eli5": "If you take someone’s sandwich and walk off instead of paying, it’s like stealing, even if you say you’ll pay later.",
+    "category": "criminal",
+    "difficulty": "easy",
+    "rarity": "common",
+    "principle": "Doctrine — Theft: dishonest appropriation and intention to permanently deprive"
+  },
+  {
+    "id": "c057",
+    "title": "Boat Repair Deposit Dispute",
+    "facts": "In Trinidad, Sasha paid Kezia a deposit to repair a small fishing boat and the work was repeatedly delayed. When Sasha cancelled after weeks of waiting, Kezia refused to return the deposit, saying it was non-refundable though there was no written clause.",
+    "question": "Can Sasha recover the deposit in contract law?",
+    "options": [
+      "No, deposits are always non-refundable",
+      "Yes, because without an express non-refundable term the deposit may be recoverable",
+      "No, because the deposit shows intent to perform the contract",
+      "Yes, but only if the delay exceeded six months"
+    ],
+    "correctIndex": 1,
+    "explanation": "Deposits are not automatically non-refundable; recovery depends on the contract terms. Absent an express non-refundable clause or agreed liquidated damages, a paying party who rescinds for the other party's breach can often recover the deposit. Courts examine the parties' agreed terms and fairness.",
+    "eli5": "If you pay a babysitter a small token but she never shows up and there was no rule about keeping the token, you can usually get it back.",
+    "category": "contract",
+    "difficulty": "easy",
+    "rarity": "common",
+    "principle": "Doctrine — Deposits and rescission: recovery depends on express terms and breach"
+  },
+  {
+    "id": "c058",
+    "title": "Barroom Push, Punch Response",
+    "facts": "At an Antigua bar, Troy shoved Ruel hard after an argument, and Ruel responded by punching Troy, breaking his nose. The bouncer and patrons saw Troy initiate physical contact before Ruel struck back.",
+    "question": "Is Ruel likely to succeed with a self-defence claim?",
+    "options": [
+      "Yes, any response to an assault is justified automatically",
+      "No, self-defence never covers punching back",
+      "It depends: self-defence is available if Ruel used reasonable and proportionate force",
+      "Yes, because the bar setting made the threat greater"
+    ],
+    "correctIndex": 2,
+    "explanation": "Self-defence permits reasonable and proportionate force to repel an unlawful attack. Because Troy initiated the assault, Ruel can raise self-defence, but his response must be proportionate to the threat; an excessive response could negate the defence.",
+    "eli5": "If someone shoves you, you can protect yourself, but you shouldn't hit them much harder than needed to stay safe.",
+    "category": "criminal",
+    "difficulty": "easy",
+    "rarity": "common",
+    "principle": "Doctrine — Self-defence: lawful use of reasonable and proportionate force against an attack"
+  },
+  {
+    "id": "c059",
+    "title": "Painting Purchase Mistaken Identity",
+    "facts": "In Barbados, Sasha bought a painting from a dealer who described it as an original by a famous Caribbean artist. After the sale, Sasha discovered it was a modern copy; the dealer says it was an innocent mistake. Sasha seeks to rescind the contract.",
+    "question": "Can Sasha rescind the contract for mistake or misrepresentation?",
+    "options": [
+      "No, buyer beware rules bar rescission for quality",
+      "Yes, only if there was an express written warranty",
+      "No, because the dealer acted innocently",
+      "Yes, misrepresentation (even innocent) can allow rescission if it induced the contract"
+    ],
+    "correctIndex": 3,
+    "explanation": "A false statement that induces a party to contract can give a right to rescind even if the misrepresentation was innocent. If Sasha relied on the dealer's assertion that the painting was original, she may rescind for misrepresentation and recover her purchase money.",
+    "eli5": "If someone tells you a toy is a real collector’s item and it turns out fake, you can usually give it back and get your money if you bought it because of that claim.",
+    "category": "contract",
+    "difficulty": "easy",
+    "rarity": "rare",
+    "principle": "Doctrine — Misrepresentation: false statements inducing a contract can allow rescission"
+  },
+  {
+    "id": "c060",
+    "title": "Getaway Driver Liability",
+    "facts": "On a small Grenadian estate, Kezia and two friends planned to steal a generator. Troy stayed in a car nearby and drove them away after they took the generator and used force to push aside a worker. Troy never entered the building but waited as the getaway driver.",
+    "question": "Can Troy be convicted for the robbery?",
+    "options": [
+      "Yes; assisting or facilitating a joint enterprise makes him liable for the robbery",
+      "No; only the person who used force can be guilty of robbery",
+      "No; driving away after the fact is mere presence",
+      "Yes, but only if he personally used force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Participating in a joint enterprise or assisting a principal offender (e.g., as a getaway driver) can make an individual liable for the substantive offence. Troy’s active role in facilitating the theft and escape supports criminal liability for the robbery.",
+    "eli5": "If you help your friends steal something by driving them away, you're treated like you helped do the stealing.",
+    "category": "criminal",
+    "difficulty": "easy",
+    "rarity": "common",
+    "principle": "Doctrine — Joint enterprise and accessorial liability: assistance or agreement to offend creates liability"
+  },
+  {
+    "id": "c061",
+    "title": "Sublease Without Landlord Consent",
+    "facts": "Camille sublet her Kingstown apartment to a friend while she traveled, despite a lease clause prohibiting subletting without the landlord’s consent. The landlord discovered the sublet and threatens eviction and damages.",
+    "question": "Has Camille breached the lease and can the landlord act?",
+    "options": [
+      "No, tenants may sublet once they pay rent",
+      "Yes, she breached a covenant; landlord can seek remedies including termination if serious",
+      "No, the landlord must consent if rent is paid",
+      "Yes, but landlord has no remedy unless rent is unpaid"
+    ],
+    "correctIndex": 1,
+    "explanation": "A lease clause prohibiting subletting creates a covenant; unauthorized subletting is a breach. The landlord can pursue contractual remedies, which may include damages and, depending on severity and lease terms, termination or forfeiture proceedings.",
+    "eli5": "If your parents told you not to lend your room to someone and you did, they can be upset and make rules or take it back.",
+    "category": "contract",
+    "difficulty": "easy",
+    "rarity": "common",
+    "principle": "Doctrine — Covenants in leases: breaching a no-sublet clause gives landlord contractual remedies"
+  },
+  {
+    "id": "c062",
+    "title": "Airport Bag, Hidden Substance",
+    "facts": "At a Trinidad customs search, officers found a small quantity of a controlled substance in Kezia’s checked bag. Kezia says the bag was packed by a friend and she had no knowledge of the drug. She was arrested for possession.",
+    "question": "Is Kezia likely guilty of possession under criminal law?",
+    "options": [
+      "Yes, mere presence of the substance makes her guilty",
+      "Yes, unless she proves someone else put it there",
+      "Not necessarily; prosecution must prove control and knowledge or willful blindness",
+      "Not at all; possession laws do not apply to checked baggage"
+    ],
+    "correctIndex": 2,
+    "explanation": "Possession offences generally require proof of both control and knowledge (or conscious awareness) of the prohibited item. If Kezia can show she lacked knowledge and had no control over how the bag was packed, the prosecution may fail to prove possession.",
+    "eli5": "If you carry a backpack someone else secretly put a candy bar in, you might not be blamed if you truly didn’t know it was there.",
+    "category": "criminal",
+    "difficulty": "easy",
+    "rarity": "common",
+    "principle": "Doctrine — Possession: requires control plus knowledge or willful blindness"
+  },
+  {
+    "id": "c063",
+    "title": "Oral Guarantee For Loan",
+    "facts": "Marcia orally told a lender at a Grenadian market she would guarantee Kezia’s stall loan; there was no written guarantee and the lender later sought to enforce Marcia’s promise when Kezia defaulted. Marcia says she only made a casual oral assurance.",
+    "question": "Is the lender likely to enforce Marcia’s oral guarantee?",
+    "options": [
+      "Yes, all guarantees are enforceable whether oral or written",
+      "Yes, if the court finds reliance despite no writing",
+      "No, oral guarantees are banned in Commonwealth law",
+      "No, guarantees of another’s debt generally require a signed writing to be enforceable"
+    ],
+    "correctIndex": 3,
+    "explanation": "Under the Statute of Frauds and related Commonwealth rules, a guarantee (a promise to answer for another’s debt) typically must be evidenced by a signed writing to be enforceable. Casual oral assurances usually will not satisfy that requirement.",
+    "eli5": "Promising to pay for a friend’s game only by saying it out loud isn’t enough; you usually need something written and signed to make it stick.",
+    "category": "contract",
+    "difficulty": "easy",
+    "rarity": "rare",
+    "principle": "Doctrine — Guarantees and formalities: enforceability requires written evidence signed by the guarantor"
+  },
+  {
+    "id": "c064",
+    "title": "Carnival Drunk Vandalism Claim",
+    "facts": "During Carnival in St. Lucia, Ruel, heavily intoxicated, kicked over a vendor’s display and damaged equipment. He insists he was too drunk to form intent and asks for acquittal on criminal damage charges.",
+    "question": "Will voluntary intoxication likely be a defence to the criminal damage charge?",
+    "options": [
+      "No; voluntary intoxication generally is not a defence to general intent offences",
+      "Yes; being drunk always negates criminal liability",
+      "Only if the intoxication was involuntary",
+      "Yes, if the damage was minor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Voluntary intoxication is usually not a defence to general intent offences like criminal damage, though it may be relevant for specific intent crimes. Involuntary intoxication is a different matter, but a voluntary state of drunkenness ordinarily does not excuse criminal conduct.",
+    "eli5": "Getting drunk and breaking a window doesn’t mean you’re off the hook—choosing to drink doesn’t usually let you avoid the consequences.",
+    "category": "criminal",
+    "difficulty": "easy",
+    "rarity": "common",
+    "principle": "Doctrine — Voluntary intoxication: not a defence to general intent crimes; only affects specific intent offences"
+  },
+  {
+    "id": "c065",
+    "title": "Late Delivery Festival Losses",
+    "facts": "Devon agreed to deliver sound equipment to a Barbados festival by Friday. He arrived two days late, forcing the organisers to hire a replacement and losing ticket revenue. The festival sues for breach and loss of profits.",
+    "question": "Is Devon liable for the organisers' losses from the late delivery?",
+    "options": [
+      "No, time is never of the essence unless expressly stated",
+      "Yes, late performance is a breach and liable for foreseeable losses",
+      "No, organisers should have insured against delay",
+      "Yes, but only if Devon intended to cause loss"
+    ],
+    "correctIndex": 1,
+    "explanation": "Late performance is a breach of contract; the breaching party is liable for losses that were within the reasonable contemplation of the parties at contract formation. If the delay caused foreseeable losses like hiring replacements and lost revenue, organisers can recover damages.",
+    "eli5": "If someone promises to bring your birthday cake on time and is late causing you to buy another, they usually have to pay for what you lost because of the late cake.",
+    "category": "contract",
+    "difficulty": "easy",
+    "rarity": "common",
+    "principle": "Doctrine — Breach and damages: late performance breaches contract and danage liability covers foreseeable losses"
+  }
+]
